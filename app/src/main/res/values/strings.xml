@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">randomnumber</string>
+    <string name="roll_label" />
+    <string name="todo">TODO</string>
+</resources>
